@@ -1,0 +1,31 @@
+body{
+background-color: yellow;
+}
+
+.carousel-item{
+height: 580px;
+}
+
+h1{
+font-family: Impact;
+margin-top: 30px;
+}
+
+h2{
+font-family: Impact;
+}
+
+p{
+margin-left: 50px;
+margin-bottom: 50px;
+}
+
+.col{
+margin-top: 20px;
+}
+
+.col3{
+    
+    background-color: blue;
+    color: white;
+    }
